@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Mexico City, Mexico",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "region": "The Federal District",
+        "lat": "19.429",
+        "lon": "-99.128",
+        "timezone_id": "America/Mexico_City",
+        "localtime": "2020-04-20 10:16",
+        "localtime_epoch": 1587377760,
+        "utc_offset": "-5.0"
+    },
+    "current": {
+        "observation_time": "03:16 PM",
+        "temperature": 20,
+        "weather_code": 116,
+        "weather_icons": [
+            "http://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+        ],
+        "weather_descriptions": [
+            "Partly cloudy"
+        ],
+        "wind_speed": 2,
+        "wind_degree": 179,
+        "wind_dir": "S",
+        "pressure": 1015,
+        "precip": 0,
+        "humidity": 53,
+        "cloudcover": 5,
+        "feelslike": 20,
+        "uv_index": 11,
+        "visibility": 10,
+        "is_day": "yes"
+    }
+}

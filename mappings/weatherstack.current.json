@@ -1,0 +1,11 @@
+{
+    
+      "request": {
+        "urlPath": "/weatherstack/current",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "api.weatherstack.com/current/{{request.query.query}}.json"
+      }
+}

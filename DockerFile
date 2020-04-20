@@ -1,0 +1,5 @@
+FROM openjdk:8-jdk-alpine
+COPY /target/libs/wiremock-jre8-standalone-*.jar /wiremock-jre8-standalone.jar
+COPY mappings /mappings
+COPY __files /__files
+CMD ["/usr/bin/java", "-jar", "-Dspring.profiles.active=default", "/wiremock-jre8-standalone.jar", "--global-response-templating"]

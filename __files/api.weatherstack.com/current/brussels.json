@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Brussels, Belgium",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Brussels",
+        "country": "Belgium",
+        "region": "",
+        "lat": "50.833",
+        "lon": "4.333",
+        "timezone_id": "Europe/Brussels",
+        "localtime": "2020-04-20 14:29",
+        "localtime_epoch": 1587392940,
+        "utc_offset": "2.0"
+    },
+    "current": {
+        "observation_time": "12:29 PM",
+        "temperature": 17,
+        "weather_code": 113,
+        "weather_icons": [
+            "http://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "wind_speed": 26,
+        "wind_degree": 90,
+        "wind_dir": "E",
+        "pressure": 1016,
+        "precip": 0,
+        "humidity": 32,
+        "cloudcover": 0,
+        "feelslike": 17,
+        "uv_index": 5,
+        "visibility": 10,
+        "is_day": "yes"
+    }
+}
