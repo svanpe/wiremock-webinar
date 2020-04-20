@@ -16,18 +16,18 @@ if you want to test the weatherstack API before, you need to create an account o
 
 Examples will show : 
 
-try a simple get on an pre-configured mapping
-search for all existing mappings
-search for all existing requests
-search for all existing unmatched requests
-reset requests logs
-create on the fly a mapping with less priority for 404
-get the 404
-create a negative cases (reached limited usage of API) mapping
-get reached limited usage
-create scenario for hello world example
-get scenario
-test hello world examples
-reset state of scenarios
+- try a simple get on an pre-configured mapping
+- search for all existing mappings
+- search for all existing requests
+- search for all existing unmatched requests
+- reset requests logs
+- create on the fly a mapping with less priority for 404
+- get the 404
+- create a negative cases (reached limited usage of API) mapping
+- get reached limited usage
+- create scenario for hello world example
+- get scenario
+- test hello world examples
+- reset state of scenarios
 
 
